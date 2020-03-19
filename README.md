@@ -14,7 +14,7 @@
   - 19년 03월 - 19년 06월: HGU 모두를 위한 인공지능의 활용 19-1학기 TA
   - 19년 08월 - 19년 12월: KMOOC 파이썬으로 배우는 기계학습 입문 강좌운영 TA 
   - 19년 08월 - 19년 12월: HGU 모두를 위한 인공지능의 활용 19-2학기 TA
-  - 20년 03월 - 19년 06월: KMOOC 파이썬으로 배우는 기계학습 입문 강좌운영 TA  [강의정보]([http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T1/about](http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T1/about))
+  - 20년 03월 - 19년 06월: KMOOC 파이썬으로 배우는 기계학습 입문 강좌운영 TA  [[강의정보]](http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T1/about)
 
 
 ## 💡 강의 계획

@@ -37,7 +37,7 @@
 
 
 ## 💎 교육 핵심 가치
--겸손, 나눔, 성장
+- 겸손, 나눔, 성장
   - 겸손: Philippians 2:3
   - 나눔: Handong’s slogan “Study for others” (배워서 남주자)
   - 성장: Covenant LAB은 함께 성장하는 것을 꿈꾸고 있습니다. 

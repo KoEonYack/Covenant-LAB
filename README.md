@@ -1,6 +1,6 @@
 
 
-# Covenant LAB 강의자료
+# Covenant LAB
 
 ## 강의자 소개
 - Ko EonYack (Covenant)

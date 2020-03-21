@@ -1,8 +1,6 @@
 
 
 # Covenant LAB 
-
-## 맴버
 - Ko EonYack (Covenant)
 
 ## 🔥 활동

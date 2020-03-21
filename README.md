@@ -24,7 +24,7 @@
 
 ## 🏆 수상
 - 2019 한국컴퓨터종합학술대회  학부생/주니어논문경진대회 학부생 부분 우수상: [[RISS 링크]]( http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=a6ad7eeb5b6e185ec85d2949c297615a) 
-- 제6회 개발보안 경진대회 최우수상(행안부장관상): [[보안뉴스 기사]](https://www.boannews.com/media/view.asp?idx=84167&kind=2) [[후기]](https://covenant.tistory.com/121?category=730893)
+- 제6회 개발보안 경진대회 최우수상(행정안전부 장관상): [[보안뉴스 기사]](https://www.boannews.com/media/view.asp?idx=84167&kind=2) [[후기]](https://covenant.tistory.com/121?category=730893)
 
 
 ## 💡 강의 일정

@@ -42,6 +42,6 @@
 
 <br />
 
-<div style="text-align: center">
+<p align="center">
   <img src="img/logo.jpg" width="250px" >
-</div>
+</p>

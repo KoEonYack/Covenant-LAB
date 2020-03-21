@@ -42,4 +42,6 @@
 
 <br />
 
-<img src="img/logo.jpg" align="center" style="display: block; margin: 0px auto;" width="250px" >
+<div style="text-align: center">
+  <img src="img/logo.jpg" width="250px" >
+</div>

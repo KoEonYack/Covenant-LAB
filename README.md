@@ -26,3 +26,7 @@
 ## 💎 가치
   - Handong’s slogan “Study for others” (배워서 남주자)
   - Covenant LAB은 지식을 나누며 함께 성장하는 것을 꿈꾸고 있습니다. 
+
+<br />
+
+<img src="img/logo.jpg" align="center" style="display: block; margin: 0px auto;" width="250px" >

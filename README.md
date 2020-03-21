@@ -1,10 +1,11 @@
 
 
-# Covenant LAB 강의자료
+# Covenant LAB 
 
-## 강의자 소개
+## 맴버
 - Ko EonYack (Covenant)
-- 🔥 활동
+
+## 🔥 활동
   - 17년 08월: Covenant EDU 탄생
   - 17년 08월 - 17년 12월: HGU 파이썬 프로그래밍 17-2학기 튜터
   - 17년 12월 - 18년 01월: HGU C 프로그래밍 겨울계절학기 TA

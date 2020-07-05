@@ -9,11 +9,12 @@
 - 20년 05월 ~ (Now): Director of Covenant LAB
 - 13년 03월 ~ 20년 08월: Department of CSEE at HGU Univㅤ
 
+<br />
 
 ## 🔥 교육 활동
 
   - 17년 08월: Covenant EDU 탄생
-  - 17년 08월 - 17년 12월: HGU 파이썬 프로그래밍 17-2학기 튜터
+  - 17년 08월 - 17년 12월: HGU 파이썬 프로그래밍 17-2학기 Tutor
   - 17년 12월 - 18년 01월: HGU C 프로그래밍 겨울계절학기 TA
   - 18년 08월 - 18년 12월: HGU C 프로그래밍 18-2학기 TA
   - 18년 12월 - 19년 01월: HGU C 프로그래밍 겨울계절학기 TA
@@ -23,11 +24,11 @@
   - 19년 03월 - 19년 06월: HGU 소프트웨어입문 19-1학기 TA
   - 19년 03월 - 19년 06월: HGU 모두를 위한 인공지능의 활용 19-1학기 TA
   - 19년 08월 - 19년 12월: HGU 모두를 위한 인공지능의 활용 19-2학기 TA
-  - 19년 08월 - 19년 12월: KMOOC 파이썬으로 배우는 기계학습 입문 강좌운영 TA 
+  - 19년 08월 - 19년 12월: KMOOC 파이썬으로 배우는 기계학습 입문 19-2학기 강좌운영 TA 
   - 19년 08월 - 19년 12월: HGU C프로그래밍 19-1학기 TA
   - 20년 03월 - 20년 06월: HGU 모두를 위한 인공지능의 활용 20-1학기 TA
   - 20년 03월 - 20년 06월: HGU 소프트웨어입문 20-1학기 TA
-  - 20년 03월 - 29년 06월: KMOOC 파이썬으로 배우는 기계학습 입문 강좌운영 TA 
+  - 20년 03월 - 29년 06월: KMOOC 파이썬으로 배우는 기계학습 입문 20-1학기 강좌운영 TA 
     - [KMOOC 강의 정보. 파이썬으로 배우는 기계학습 입문](http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T1/about)
   - 20년 01월: Covenant 누적 방문 10만 돌파 [covenant.tistory.com](covenant.tistory.com)
   - 20년 07월: Covenant 누적 방문 16만 돌파 [covenant.tistory.com](covenant.tistory.com)
